@@ -7,9 +7,9 @@ int main()
     {
         if(n%i==0)
         {
-        c++;
+            c++;
         }
-        }
+    }
     if(c==2)
     {
         printf("Prime");
